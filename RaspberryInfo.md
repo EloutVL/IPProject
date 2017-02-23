@@ -16,3 +16,16 @@ http://stackoverflow.com/questions/34284498/rfid-rc522-raspberry-pi-2-windows-io
 **Arduino en andere RFID modules libs**
 
 https://github.com/mdxs/MFRC522
+
+
+**Raspberry interface voor de NFC tag**
+
+https://github.com/mxgxw/MFRC522-python
+
+
+**APP**
+
+
+**lijst**
+
+http://www.journaldev.com/9942/android-expandablelistview-example-tutorial
