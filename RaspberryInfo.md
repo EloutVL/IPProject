@@ -35,3 +35,7 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=139873
 **lijst**
 
 http://www.journaldev.com/9942/android-expandablelistview-example-tutorial
+
+**tag**
+
+https://developer.android.com/guide/components/intents-common.html#Maps
