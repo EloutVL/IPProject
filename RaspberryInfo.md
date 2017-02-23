@@ -22,6 +22,12 @@ https://github.com/mdxs/MFRC522
 
 https://github.com/mxgxw/MFRC522-python
 
+**installatieprobz packages**
+
+http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=139873
+
 
 **APP**
 
